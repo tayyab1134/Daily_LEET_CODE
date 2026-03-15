@@ -1,5 +1,6 @@
 1622. Fancy Sequence
 
+This is daily base problem 
 Hard
 Topics
 premium lock icon
