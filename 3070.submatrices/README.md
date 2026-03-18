@@ -9,7 +9,7 @@ Return the number of submatrices that contain the top-left element of the grid, 
 
  
 
-Example 1:
+Example 1
 
 
 Input: grid = [[7,6,3],[6,6,1]], k = 18
