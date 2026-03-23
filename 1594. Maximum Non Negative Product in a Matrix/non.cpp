@@ -29,6 +29,7 @@ public:
 
                 long long mx = a;
                 if (b > mx) mx = b;
+                
                 if (c > mx) mx = c;
                 if (d > mx) mx = d;
 
