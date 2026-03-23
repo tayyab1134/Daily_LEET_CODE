@@ -14,7 +14,7 @@ Notice that the modulo is performed after getting the maximum product
 
  
 
-Example 1:
+Example 1
 
 
 Input: grid = [[-1,-2,-3],[-2,-3,-3],[-3,-3,-2]]
