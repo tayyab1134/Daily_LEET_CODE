@@ -31,13 +31,14 @@ public:
                 if (b > mx) mx = b;
                 
                 if (c > mx) mx = c;
+                
                 if (d > mx) mx = d;
 
                 long long mn = a;
                 if (b < mn) mn = b;
 
                 if (c < mn) mn = c;
-                
+
                 if (d < mn) mn = d;
 
                 dpMax[i][j] = mx;
