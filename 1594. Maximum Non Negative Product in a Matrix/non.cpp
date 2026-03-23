@@ -28,6 +28,7 @@ public:
                 long long d = dpMin[i][j - 1] * grid[i][j];
 
                 long long mx = a;
+                
                 if (b > mx) mx = b;
                 
                 if (c > mx) mx = c;
