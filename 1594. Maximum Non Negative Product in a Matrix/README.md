@@ -10,7 +10,7 @@ Among all possible paths starting from the top-left corner (0, 0) and ending in 
 
 Return the maximum non-negative product modulo 109 + 7. If the maximum product is negative, return -1.
 
-Notice that the modulo is performed after getting the maximum product.
+Notice that the modulo is performed after getting the maximum products
 
  
 
