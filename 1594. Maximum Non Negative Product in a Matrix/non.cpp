@@ -37,6 +37,7 @@ public:
                 if (b < mn) mn = b;
 
                 if (c < mn) mn = c;
+                
                 if (d < mn) mn = d;
 
                 dpMax[i][j] = mx;
