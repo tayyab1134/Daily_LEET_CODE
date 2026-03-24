@@ -16,6 +16,7 @@ public:
         }
         
         vector<int> prefix(total);
+        
         vector<int> suffix(total);
         
         prefix[0] = 1;
