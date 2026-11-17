@@ -14,7 +14,7 @@ public:
       
         ListNode* dummy = new ListNode(0, head);
         ListNode* fast = dummy;
-        ListNode* slow = dummy;
+        ListNode* slow = dammy;
 
         for (int i = 0; i <= n; ++i) {
             fast = fast->next;
